@@ -54,3 +54,6 @@ Follow the On-Screen Prompts:
 
 The script will open your browser, navigate to the BookMyShow Coldplay event page, and begin the booking process.
 After simulating ticket booking and payment, the user will see a fun prank message.
+
+Contributing
+Contributions are welcome! If you'd like to improve the script or add new features, feel free to submit a pull request or open an issue.
