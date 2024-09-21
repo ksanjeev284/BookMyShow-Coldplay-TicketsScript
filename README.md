@@ -56,7 +56,7 @@ Download **ChromeDriver** to match your version of Google Chrome. You can downlo
 ### 1. Clone the Repository
 Clone the repository to your local machine using Git:
 ```bash
-git clone https://github.com/your-username/Coldplay-Ticket-Booking.git
+git clone https://github.com/ksanjeev284/BookMyShow-Coldplay-TicketsScript.git
 ```
 
 ### 2. Install Required Dependencies
@@ -88,12 +88,7 @@ You can modify several aspects of the script to fit your needs:
   driver.get("https://in.bookmyshow.com/events/coldplay-music-of-the-spheres-world-tour/ET00412466")
   ```
 
-- **Ticket Price**: Adjust the total ticket price by modifying the following line:
-  ```python
-  print("Total price: ₹5000")
-  ```
-
-- **Payment Methods**: You can customize the available payment methods or add more options by editing the `fake_payment_process()` function in the script.
+- **Payment Methods**: You can customize the available payment methods
 
 ---
 
